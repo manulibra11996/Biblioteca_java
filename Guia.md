@@ -2,12 +2,27 @@
 
 1. Crear un repositorio de GitHub por grupo
 2. Crear entidades y atributos
+   a. Libro (Miguel Angel)
+   b. autor (Curri)
+   c. categoria (Laura)
+   d. usuario/socio (Rafael)
+   e. alquiler (Manuel)
 3. Repositorios
+   a. Libro (Miguel Angel)
+   b. autor (Curri)
+   c. categoria (Laura)
+   d. usuario/socio (Rafael)
+   e. alquiler (Manuel)
 4. Controladores
-5. HTMLs: list, detalle, formulario
-6. Asociaciones ManyToOne entre entidades (parte más propensa a problemas)
+   a. Libro (Miguel Angel)
+   b. autor (Curri)
+   c. categoria (Laura)
+   d. usuario/socio (Rafael)
+   e. alquiler (Manuel)
+5. HTMLs: list, detalle, formulario 
+6. Asociaciones ManyToOne entre entidades (parte más propensa a problemas) (Manuel)
 7. Estilización CSS con Bootstrap CSS 
-8. Crear logo con canva o un generator de logos
+8. Crear logo con canva o un generator de logos (Miguel Angel)
 
 Plantear dividir estas tareas según metodología ágil en una herramienta de gestión de proyectos.
 
