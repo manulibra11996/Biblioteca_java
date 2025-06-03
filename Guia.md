@@ -6,19 +6,19 @@
    b. autor (Curri)
    c. categoria (Laura)
    d. usuario/socio (Rafael)
-   e. alquiler (Manuel)
+   e. Prestamo (Manuel)
 3. Repositorios
    a. Libro (Miguel Angel)
    b. autor (Curri)
    c. categoria (Laura)
    d. usuario/socio (Rafael)
-   e. alquiler (Manuel)
+   e. Prestamo (Manuel)
 4. Controladores
    a. Libro (Miguel Angel)
    b. autor (Curri)
    c. categoria (Laura)
    d. usuario/socio (Rafael)
-   e. alquiler (Manuel)
+   e. Prestamo (Manuel)
 5. HTMLs: list, detalle, formulario 
 6. Asociaciones ManyToOne entre entidades (parte más propensa a problemas) (Manuel)
 7. Estilización CSS con Bootstrap CSS 

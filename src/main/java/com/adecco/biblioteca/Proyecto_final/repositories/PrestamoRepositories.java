@@ -1,9 +1,9 @@
 package com.adecco.biblioteca.Proyecto_final.repositories;
 
-import com.adecco.biblioteca.Proyecto_final.entities.Alquiler;
+import com.adecco.biblioteca.Proyecto_final.entities.Prestamo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface AlquilerRepositories extends JpaRepository<Alquiler, Long> {
+public interface PrestamoRepositories extends JpaRepository<Prestamo, Long> {
 
     // spring boot implementa métodos básicos:
     // findAll(), findById(), save(), delete(), etc...

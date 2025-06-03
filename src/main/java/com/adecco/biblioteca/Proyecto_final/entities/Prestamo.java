@@ -1,13 +1,12 @@
 package com.adecco.biblioteca.Proyecto_final.entities;
 
 import jakarta.persistence.*;
-import org.attoparser.trace.MarkupTraceEvent;
 
 import java.util.Date;
 
 @Entity // indica que esta clase es una tabla
-@Table(name = "alquiler") // personaliza el nombre de la tabla
-public class Alquiler {
+@Table(name = "prestamo") // personaliza el nombre de la tabla
+public class Prestamo {
 
     @Id // indica que este atributo es la clave primaria
     @GeneratedValue(strategy = GenerationType.IDENTITY)
