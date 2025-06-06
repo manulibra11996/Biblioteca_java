@@ -1,5 +1,3 @@
-public class sociosrepository {
-}
 package com.adecco.biblioteca.repositorios;
 
 import com.biblioteca.entidades.socios;

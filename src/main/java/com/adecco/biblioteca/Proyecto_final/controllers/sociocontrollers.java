@@ -1,5 +1,3 @@
-public class sociocontrollers {
-}
 package com.adecco.biblioteca.controladores.sociocontrollers;
 import org.springframework.stereotype.Controller;
 

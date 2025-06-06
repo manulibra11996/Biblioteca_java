@@ -1,5 +1,4 @@
-public class socios {
-}
+
 package com.adecco.biblioteca.entidades;
 
 import jakarta.persistence.*;
