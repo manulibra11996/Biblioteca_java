@@ -1,4 +1,4 @@
-package com.adecco.biblioteca.Proyecto_final;
+package com.adecco.biblioteca.Proyecto_final.entidades;
 
 public class EntidadAutor {package com.Autor.proyecto.entidad;
 

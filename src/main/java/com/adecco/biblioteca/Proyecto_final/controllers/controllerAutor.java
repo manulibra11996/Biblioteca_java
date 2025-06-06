@@ -1,4 +1,4 @@
-package com.adecco.biblioteca.Proyecto_final;
+package com.adecco.biblioteca.Proyecto_final.controllers;
 
 public class controllerAutor {// src/main/java/com/ejemplo/proyecto/controlador/AutorController.java
 

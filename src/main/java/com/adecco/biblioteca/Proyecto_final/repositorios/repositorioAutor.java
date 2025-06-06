@@ -1,4 +1,4 @@
-package com.adecco.biblioteca.Proyecto_final;
+package com.adecco.biblioteca.Proyecto_final.repositorios;
 
 public class repositorioAutor {// src/main/java/com/ejemplo/proyecto/repositorio/AutorRepository.java
 
