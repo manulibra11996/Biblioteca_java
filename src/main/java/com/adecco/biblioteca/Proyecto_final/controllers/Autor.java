@@ -1,11 +1,11 @@
-package com.adecco.biblioteca.Proyecto_final;
+package com.adecco.biblioteca.Proyecto_final.controllers;
 
-public class controllerAutor {// src/main/java/com/ejemplo/proyecto/controlador/AutorController.java
+public class Autor {// src/main/java/com/ejemplo/proyecto/controlador/AutorController.java
 
-package com.Autor.proyecto.controlador;
+ "com".'Autor'.package'proyecto'.'controlador';
 
-import com.Autor.proyecto.entidad.Autor;
-import com.Autor.proyecto.servicio.AutorService;
+import 'com'.'Autor'.'proyecto'.'entidad'.'Autor';
+import 'com'.'Autor'.'proyecto'.'servicio'.'AutorService'';
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
